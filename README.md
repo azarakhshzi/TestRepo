@@ -8,4 +8,4 @@ for that, i need to make sure i leared what is taught.
 
 <pre> ```python def greet(): print("Hello, world!") ``` </pre>
 
-![Alt text](path/to/image.png)
+![my image](2149.jpg)
